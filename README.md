@@ -1,2 +1,5 @@
-# TimeConverter
-Converts the given input time into the British spoken form.
+# British Spoken Time
+
+mvn clean install
+
+run the App.java 
